@@ -1,4 +1,6 @@
-   
+body{
+    background-color:gray;
+}   
 div {  
     box-sizing: border-box; 
     width: 100%; 
@@ -10,7 +12,7 @@ form {
     width: 600px;
     text-align: center;
     border: 1px Solid black;
-    background-color: aliceblue;
+    background-color: rgb(38, 164, 218);
 }
 
 form>p{
@@ -19,6 +21,7 @@ form>p{
     justify-content: center;
 
 }
+
 input{
     width: 300px;
     margin-left: 2%;
